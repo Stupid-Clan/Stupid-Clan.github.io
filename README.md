@@ -2,5 +2,5 @@
 
 Unser Soundboard ist für Windows, sowie MacOS verfügbar
 
-Download für den Windows Installer <a href="">hier</a><br>
-Download für MacOS <a href="">hier</a>
+Download für den Windows Installer <a href="https://anonfiles.com/b3x8s6Cfp5/Soundboard_Install_exe">hier</a><br>
+Download für MacOS <a href="https://anonfiles.com/J8y7s0C2p2/Soundboard_zip">hier</a>
